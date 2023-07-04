@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+
+.project {
+  width: 450px;
+  margin: 30px;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: center;
+}
+
+.resume {
+  width: 80%;
+  height: 100vh;
+}
+
+.resume-container {
+  display: flex;
+  justify-content: center;
+}

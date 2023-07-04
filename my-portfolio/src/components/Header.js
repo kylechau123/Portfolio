@@ -1,4 +1,5 @@
 import React from 'react';
+import Navigation from './Navigation';
 
 function Header(props) {
     return (
@@ -20,39 +21,9 @@ function Header(props) {
 
                 </div>
 
-                <div class="navbar-end">
-                    <a class="navbar-item"
-                        onClick={() => {
-                            props.setCurrentPage("About")
-                          }}
-                    >
-                        About
-                    </a>
-
-                    <a class="navbar-item"
-                        onClick={() => {
-                            props.setCurrentPage("Portfolio")
-                          }}
-                    >
-                        Portfolio
-                    </a>
-
-                    <a class="navbar-item"
-                        onClick={() => {
-                            props.setCurrentPage("Contact")
-                          }}
-                    >
-                        Contact
-                    </a>
-
-                    <a class="navbar-item"
-                        onClick={() => {
-                            props.setCurrentPage("Resume")
-                          }}
-                    >
-                        Resume
-                    </a>
-                </div>
+                <Navigation
+                    setCurrentPage={props.setCurrentPage}
+                ></Navigation>
             </div>
         </nav>
     );
