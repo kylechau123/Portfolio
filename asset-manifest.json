@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.1b63bd5b.css",
+    "main.js": "/Portfolio/static/js/main.9c7af988.js",
+    "static/js/787.128fc6e9.chunk.js": "/Portfolio/static/js/787.128fc6e9.chunk.js",
+    "static/media/birthdaybuddy.png": "/Portfolio/static/media/birthdaybuddy.2e4ec8cb88273d638cc6.png",
+    "static/media/Resume.docx.pdf": "/Portfolio/static/media/Resume.docx.d2201f2849a1b622de2b.pdf",
+    "static/media/FoodForEveryone.png": "/Portfolio/static/media/FoodForEveryone.7a5f881d6e0814c79d9a.png",
+    "index.html": "/Portfolio/index.html",
+    "main.1b63bd5b.css.map": "/Portfolio/static/css/main.1b63bd5b.css.map",
+    "main.9c7af988.js.map": "/Portfolio/static/js/main.9c7af988.js.map",
+    "787.128fc6e9.chunk.js.map": "/Portfolio/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b63bd5b.css",
+    "static/js/main.9c7af988.js"
+  ]
+}
